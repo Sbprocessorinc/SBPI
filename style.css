@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('Web Images/background.jpg');
+  background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('Web Images/Background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
